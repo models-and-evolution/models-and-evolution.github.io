@@ -1,4 +1,4 @@
-description: The 18th Workshop on Models and Evolution (ME) 2024 is a satellite event at ACM/IEEE 27th International Conference on Model Driven Engineering Languages and Systems.
+description: The 19th Workshop on Models and Evolution (ME) 2025 is a satellite event at ACM/IEEE 27th International Conference on Model Driven Engineering Languages and Systems.
 author: Djamel Eddine Khelladi, Juri Di Rocco, and Dalila Tamzalit.
 keywords: ME, Model-Driven Engineering, Evolution, MDE, coevolution
 
@@ -8,8 +8,8 @@ name: Models and Evolution
 
 day1: Tuesday 24 
 day2: 
-month: September 2024
-data-year: 2024
+month: September 2025
+data-year: 2025
 data-month: 09
 data-day: 24
 data-hour: 09
@@ -26,8 +26,6 @@ exclude:
 navigation:
  - title: Call for Papers
    url: /call-for-paper/
- - title: Program
-   url: /speakers/
  - title: Important Dates
    url: /sponsors/
  - title: Organizers

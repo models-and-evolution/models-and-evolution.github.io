@@ -19,13 +19,13 @@ title: Models and Evolution - Programme
          <section class="section-speaker section">
 
         <div class="row">
-            <div class="col-lg-12">
-            </div>
-        </div>
-
-
+            <div class="col-lg-12"> </div>
+        
 
             <div class="row">
+                <div class="col-md-4 col-sm-4 col-xs-6 section-margin">
+                    <a href="https://models-and-evolution.github.io/models-and-evolution2024.github.io/">ME 2024</a> (at MoDELS)
+                </div>
                 <div class="col-md-4 col-sm-4 col-xs-6 section-margin">
                     <a href="https://www.models-and-evolution.com/">ME 2023</a> (at MoDELS)
                 </div>

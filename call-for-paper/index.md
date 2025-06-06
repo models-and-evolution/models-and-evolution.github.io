@@ -117,7 +117,7 @@ evolution and evolution issues encountered in model-based development.</li>
         <div class="row">
             <div class="col-lg-12">
                 <p>
-                    All submitted papers must adhere to the ACM Conference format, and submitted electronically through EasyChair (<a href="https://easychair.org/conferences/?conf=me20240">https://easychair.org/conferences/?conf=me20240</a> ).
+                    All submitted papers must adhere to the ACM Conference format, and submitted electronically through EasyChair (<a href="https://easychair.org/conferences/?conf=me2025">https://easychair.org/conferences/?conf=me2025</a> ).
                     LaTeX users must use the provided acmart.cls and ACM-Reference-Format.bst without modification, enable the conference format in the preamble of the document (i.e., <code>\documentclass[sigconf,review]{acmart}</code>), and use the ACM reference format for the bibliography (i.e., <code>\bibliographystyle{ACM-Reference-Format}</code>). The review option adds line numbers, thereby allowing referees to refer to specific lines in their comments.
                     All submissions will be reviewed by at least 3 members of the program committee. Papers submitted to the workshop should have at least 5 pages and 10 pages for full papers following the same style and format of the main tracks of the Conference. Submissions that do not adhere to the formatting instructions may be desk-rejected without review.
                 </p>
