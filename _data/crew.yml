@@ -1,13 +1,3 @@
-- qld:
-  name: Quentin	Le Dilavrec
-  employer: TU Delft (Netherlands)
-  photo: abl.jpg
-  role: pc
-- ar:
-  name: Adrian	Rutle
-  employer: Western Norway University of Applied Sciences (Norway)
-  photo: abl.jpg
-  role: pc
 - ads:
   name: Amleto Di Salle
   employer: Grans Sasso Science Institute (Italy)
@@ -17,17 +7,13 @@
   name: Wael Kessentini
   employer: DePaul University (US)
   photo: kes.jpeg
-  role: pc
+  role: po
 - sp:
   name: Saheed Popoola
   employer: University of Cincinnati (US)
   photo: abl.jpg
   role: pc
-- fp:
-  name: Francisca Perez
-  employer: San Jorge University (Spain)
-  photo: francisca.png
-  role: pc
+
 - sandra:
   name: Sandra Greiner
   employer: University of Southern (Denmark)
@@ -38,45 +24,15 @@
   employer: Malardalen University (Sweden)
   photo: robbert.jpeg
   role: pc
-- meh:
-  name: Mahmoud El Hamlaoui
-  employer: ENSIAS, Rabat IT Center, UM5R (Morocco)
-  photo: mahmoud.png
-  role: pc
 - tlc:
   name: Théo Le Calvar
   employer: IMT Atlantique (France)
   photo: theo.jpeg
   role: pc
-- ag:
-  name: Antonio Grarmendia
-  employer: Universidad Autónoma de Madrid (Spain)
-  photo: antoniog.jpg
-  role: pc
 - abu:
   name: Alessio Bucaioni
   employer: Malardalen University (Sweden)
   photo: alessio.jpg
-  role: pc
-- jpt: 
-  name: Juha-Pekka Tolvanen
-  employer: MetaCase (Finland)
-  photo: juha.jpg
-  role: pc
-- hk:
-  name: Harald Koenig
-  employer: University of applied Sciences FHDW Hannover (Germany)
-  photo: abl.jpg
-  role: pc
-- fba:
-  name: Francesco Basciani
-  employer: Gran Sasso Science Institute (Italy)
-  photo: bascio.jpeg
-  role: pc
-- id:
-  name: Istvan David
-  employer: McMaster University (Canada)
-  photo: istvan.jpg
   role: pc
 - li2:
   name: Ludovico Iovino
@@ -103,13 +59,30 @@
   employer: LS2N, Université de Nantes (France)
   role: sc
   photo: dalila.jpg
-- dt2:
-  name: Dalila Tamzalit
-  employer: LS2N, Université de Nantes (France)
-  role: po
-  photo: dalila.jpg
 - dek:
   name: Djamel Eddine Khelladi
   employer: CNRS, IRISA, University of Rennes (France)
   photo: djamel.jpg
   role: po
+- dek:
+  name: Nikolaos Matragkas
+  employer: CEA
+  photo: abl.jpg
+  role: pc
+- mlt:
+  name: Malvina Latifaj
+  employer: Mälardalen University	 (Sweden)
+  photo: abl.jpg
+  role: pc
+- zohra:
+  name: Zohra Kebaili
+  employer: IRISA, University of Rennes (France)
+  photo: abl.jpg
+  role: pc
+- stvan:
+  name: David Istvan
+  employer: McMaster University (Canada)
+  photo: abl.jpg
+  role: pc
+
+
