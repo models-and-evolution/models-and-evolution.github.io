@@ -30,8 +30,8 @@ title: Models and Evolution - Important Dates
                 <p>
                We follow the defined deadlines by the MODELS workshop co-chairs.
                 <ul>
-                    <li> Abstract submission: June 26, 2025 </li>
-                    <li> Paper submission: July 3, 2025 </li>
+                    <li> Abstract submission: <s>June 26,</s> Thursday July 3  2025 (AOE) </li>
+                    <li> Paper submission: <s>July 3,</s> Thursday July 10 2025 (AOE) </li>
                     <li> Author notification: July 31, 2025 </li>
                     <li> Camera-ready: August 7, 2025 </li>
                 </ul>
