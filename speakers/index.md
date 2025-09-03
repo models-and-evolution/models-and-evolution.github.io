@@ -26,7 +26,7 @@ title: Models and Evolution - Program
             </div>
         </div>
         <div class="row">
-            <h4 class="mb-0 mt-3">Session 1 - Keynote</h4>
+            <h4 class="mb-0 mt-3">Session 1</h4>
             {% assign speakers = site.speakers | sort_natural: 'session' %}
             {% for speaker in speakers %}{% if speaker.session == 1 and speaker.title != 'TBD' and speaker.title != 'Volcamp team' and speaker.photo != 'none' %}
             <div class="col-lg-12 col-sm-4">
@@ -49,7 +49,7 @@ title: Models and Evolution - Program
         </div>
         <hr>
         <div class="row">
-            <h4 class="mb-0 mt-3">Session 2 - Model Development and Quality Assurance</h4>
+            <h4 class="mb-0 mt-3">Session 2</h4>
             {% assign speakers = site.speakers | sort_natural: 'session' %}
             {% for speaker in speakers %}{% if speaker.session == 2 and speaker.title != 'TBD' and speaker.title != 'Volcamp team' and speaker.photo != 'none' %}
             <div class="col-lg-12 col-sm-4">
@@ -71,27 +71,6 @@ title: Models and Evolution - Program
             {% endfor %}
         </div>
         <hr>
-        <div class="row">
-            <h4 class="mb-0 mt-3">Session 3 - Model Evolution and Conflict Management</h4>
-            {% assign speakers = site.speakers | sort_natural: 'session' %}
-            {% for speaker in speakers %}{% if speaker.session == 3 and speaker.title != 'TBD' and speaker.title != 'Volcamp team' and speaker.photo != 'none' %}
-            <div class="col-lg-12 col-sm-4">
-                <div class="speaker-block mb-5">
-                    
-                    <div class="speaker-info">
-
-                        <h5 class="mb-0 mt-3">{{ speaker.title }}</h5>
-                        <h6 class="mb-0 mt-3">Authors: {{ speaker.authors}}</h6>
-                        <h6 class="mb-0 mt-3">Presenter: {{ speaker.presenter}}</h6>
-                        <h6 class="mb-0 mt-3">{{ speaker.time}}</h6>
-                        <p>{{ speaker.abstract }}</p>
-                        {% if speaker.presentation %} <a href="{{site.url}}/asset/presentations/{{speaker.presentation}}">Slides</a>{% endif %}
-                    </div>
-                </div>
-            </div>
-            {% endif %}{% else %}
-                Rien à voir ici.
-            {% endfor %}
-        </div>
+        
     </div>
 </section>
