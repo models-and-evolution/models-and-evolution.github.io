@@ -1,54 +1,21 @@
-- ads:
-  name: Amleto Di Salle
-  employer: Grans Sasso Science Institute (Italy)
-  photo: amleto.jpg
-  role: pc
+# === Program Organizers ===
 - kes:
   name: Wael Kessentini
-  employer: DePaul University (US)
+  employer: DePaul University, Chicago (US)
   photo: kes.jpeg
   role: po
-- sp:
-  name: Saheed Popoola
-  employer: University of Cincinnati (US)
-  photo: abl.jpg
-  role: pc
-
-- sandra:
-  name: Sandra Greiner
-  employer: University of Southern (Denmark)
-  photo: sandra.jpg
-  role: pc
-- robb:
-  name: Robbert Jongeling
-  employer: Malardalen University (Sweden)
-  photo: robbert.jpeg
-  role: pc
-- tlc:
-  name: Théo Le Calvar
-  employer: IMT Atlantique (France)
-  photo: theo.jpeg
-  role: pc
-- abu:
-  name: Alessio Bucaioni
-  employer: Malardalen University (Sweden)
-  photo: alessio.jpg
-  role: pc
-- li2:
-  name: Ludovico Iovino
-  employer: Gran Sasso Science Institute (Italy)
-  photo: ludo.jpg
-  role: pc
 - jdr:
   name: Juri Di Rocco
   employer: University of L'Aquila (Italy)
   photo: juri.jpg
   role: po
-- li:
-  name: Ludovico Iovino
-  employer: Gran Sasso Science Institute (Italy)
-  photo: ludo.jpg
-  role: sc
+- dek:
+  name: Djamel Eddine Khelladi
+  employer: CNRS, IRISA, University of Rennes (France)
+  photo: djamel.jpg
+  role: po
+
+# === Steering Committee ===
 - ap:
   name: Alfonso Pierantonio
   employer: University of L'Aquila (Italy)
@@ -56,27 +23,104 @@
   photo: alfonso.jpg
 - dt:
   name: Dalila Tamzalit
-  employer: LS2N, Université de Nantes (France)
+  employer: Nantes Universit&eacute;, CNRS, LS2N (France)
   role: sc
   photo: dalila.jpg
-- dek:
-  name: Djamel Eddine Khelladi
-  employer: CNRS, IRISA, University of Rennes (France)
-  photo: djamel.jpg
-  role: po
-- dek:
-  name: Nikolaos Matragkas
-  employer: CEA
+- li:
+  name: Ludovico Iovino
+  employer: Gran Sasso Science Institute (Italy)
+  photo: ludo.jpg
+  role: sc
+
+# === Program Committee ===
+- ab:
+  name: Ankica Barisic
+  employer: "Universit&eacute; C&ocirc;te d'Azur / I3S / INRIA Kairos (France)"
   photo: abl.jpg
   role: pc
-- mlt:
-  name: Malvina Latifaj
-  employer: Mälardalen University	 (Sweden)
-  photo: cpe.png
+- abu:
+  name: Alessio Bucaioni
+  employer: "M&auml;lardalen University (Sweden)"
+  photo: alessio.jpg
+  role: pc
+- rc:
+  name: Ruzanna Chitchyan
+  employer: University of Bristol (UK)
+  photo: abl.jpg
+  role: pc
+- ncf:
+  name: Nelly Condori Fernandez
+  employer: Universidade da Coruna Galicia (Spain)
+  photo: abl.jpg
+  role: pc
+- jsc:
+  name: "Jes&uacute;s S&aacute;nchez Cuadrado"
+  employer: Universidad de Murcia (Spain)
+  photo: abl.jpg
+  role: pc
+- ads:
+  name: Amleto Di Salle
+  employer: European University of Rome (Italy)
+  photo: amleto.jpg
+  role: pc
+- meh:
+  name: Mahmoud El Hamlaoui
+  employer: ENSIAS, Rabat IT Center, UM5R (Morocco)
+  photo: abl.jpg
+  role: pc
+- agd:
+  name: "Antonio Garc&iacute;a-Dom&iacute;nguez"
+  employer: University of York (UK)
+  photo: abl.jpg
+  role: pc
+- wk:
+  name: Wael Kessentini
+  employer: DePaul University, Chicago (US)
+  photo: kes.jpeg
+  role: pc
+- fk:
+  name: Faezeh Khorram
+  employer: University of Rennes (France)
+  photo: abl.jpg
+  role: pc
+- hk:
+  name: Harald Koenig
+  employer: University of applied Sciences FHDW Hannover (Germany)
+  photo: abl.jpg
+  role: pc
+- fp:
+  name: Francisca Perez
+  employer: San Jorge University (Spain)
+  photo: abl.jpg
+  role: pc
+- sp:
+  name: Saheed Popoola
+  employer: University of Cincinnati (US)
+  photo: abl.jpg
+  role: pc
+- ar:
+  name: Adrian Rutle
+  employer: Western Norway University of Applied Sciences (Norway)
+  photo: abl.jpg
+  role: pc
+- js:
+  name: June Sallou
+  employer: TU Delft (The Netherlands)
+  photo: abl.jpg
+  role: pc
+- jpt:
+  name: Juha-Pekka Tolvanen
+  employer: MetaCase (Finland)
+  photo: abl.jpg
+  role: pc
+- mz:
+  name: Man Zhang
+  employer: Kristiania University College, Oslo (Norway)
+  photo: abl.jpg
   role: pc
 - zohra:
   name: Zohra Kaouter Kebaili
-  employer: IRISA, University of Rennes (France)
+  employer: University of Rennes (France)
   photo: cpe.png
   role: pc
 - stvan:
@@ -84,5 +128,23 @@
   employer: McMaster University (Canada)
   photo: abl.jpg
   role: pc
-
-
+- mlt:
+  name: Malvina Latifaj
+  employer: "M&auml;lardalen University (Sweden)"
+  photo: cpe.png
+  role: pc
+- robb:
+  name: Robbert Jongeling
+  employer: Malardalen University (Sweden)
+  photo: robbert.jpeg
+  role: pc
+- tlc:
+  name: "Th&eacute;o Le Calvar"
+  employer: IMT Atlantique (France)
+  photo: theo.jpeg
+  role: pc
+- sandra:
+  name: Sandra Greiner
+  employer: University of Southern (Denmark)
+  photo: sandra.jpg
+  role: pc

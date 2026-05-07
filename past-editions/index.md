@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Models and Evolution - Programme
+title: Models and Evolution 2026 - Past Editions
 ---
-<section class="page-header" style="background-image:url(https://www.volcamp.io/asset/images/chainedespuys_header.jpg);">
+<section class="page-header" style="background: linear-gradient(135deg, #1B2A4A 0%, #2C3E6B 50%, #3D5291 100%);">
     <div class="container">
         <div class="row justify-content-center">
             <div class="col-lg-8">
@@ -23,6 +23,9 @@ title: Models and Evolution - Programme
         
 
             <div class="row">
+                <div class="col-md-4 col-sm-4 col-xs-6 section-margin">
+                    <a href="https://models-and-evolution.github.io/models-and-evolution2025.github.io/">ME 2025</a> (at MoDELS)
+                </div>
                 <div class="col-md-4 col-sm-4 col-xs-6 section-margin">
                     <a href="https://models-and-evolution.github.io/models-and-evolution2024.github.io/">ME 2024</a> (at MoDELS)
                 </div>

@@ -2,7 +2,7 @@
 layout: default
 title: Volcamp - A Propos
 ---
-<section class="page-header" style="background-image:url(https://www.volcamp.io/asset/images/chainedespuys_header.jpg);">
+<section class="page-header" style="background: linear-gradient(135deg, #1B2A4A 0%, #2C3E6B 50%, #3D5291 100%);">
     <div class="container">
         <div class="row justify-content-center">
             <div class="col-lg-8">

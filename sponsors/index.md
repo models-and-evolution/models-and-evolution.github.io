@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Models and Evolution - Important Dates
+title: Models and Evolution 2026 - Important Dates
 ---
-<section class="page-header" style="background-image:url(https://www.volcamp.io/asset/images/chainedespuys_header.jpg);">
+<section class="page-header" style="background: var(--gradient-hero);">
     <div class="container">
         <div class="row justify-content-center">
             <div class="col-lg-8">
@@ -30,10 +30,10 @@ title: Models and Evolution - Important Dates
                 <p>
                We follow the defined deadlines by the MODELS workshop co-chairs.
                 <ul>
-                    <li> Abstract submission: <s>June 26,</s> Thursday July 3  2025 (AOE) </li>
-                    <li> Paper submission: <s>July 3,</s> Thursday July 10 2025 (AOE) </li>
-                    <li> Author notification: July 31, 2025 </li>
-                    <li> Camera-ready: August 7, 2025 </li>
+                    <li> Abstract submission: Friday June 26, 2026 (AOE) </li>
+                    <li> Paper submission: Friday July 3, 2026 (AOE) </li>
+                    <li> Author notification: Thursday July 31, 2026 </li>
+                    <li> Camera-ready: Thursday August 14, 2026 </li>
                 </ul>
                 In general, all deadlines will be aligned with the final deadlines of MODELS.
                 </p>

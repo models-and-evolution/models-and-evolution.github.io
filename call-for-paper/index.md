@@ -1,15 +1,15 @@
 ---
 layout: default
-title: Models and Evolution - Programme
+title: Models and Evolution 2026 - Call for Papers
 custom_css: talks/stylesheet.css
 ---
 
-<section class="page-header" style="background-image:url(https://www.volcamp.io/asset/images/chainedespuys_header.jpg);">
+<section class="page-header" style="background: var(--gradient-hero);">
     <div class="container">
         <div class="row justify-content-center">
             <div class="col-lg-8">
                 <div class="content text-center">
-                    <h1 class="mb-3 text-white text-capitalize letter-spacing">Call for papers</h1>
+                    <h1 class="mb-3 text-white text-capitalize letter-spacing">Call for Papers</h1>
                     <div class="divider mx-auto mb-4 bg-white"> </div>
                 </div>
             </div>
@@ -31,7 +31,7 @@ custom_css: talks/stylesheet.css
             <div class="col-lg-8">
                 <div class="heading">
                     <div class="pl-90">
-                        <h2>Topic of interest</h2>
+                        <h2>Topics of Interest</h2>
                     </div>
                 </div>
             </div>
@@ -43,31 +43,33 @@ custom_css: talks/stylesheet.css
                 <li> Foundations
                     <ul>
                         <li>Theories, methods, and tools for (meta-)model evolution</li>
-                        <li> Co-evolution across multiple meta-levels (incl. instance and data levels)</li>
+                        <li>Co-evolution across multiple meta-levels (incl. instance and data levels)</li>
                     </ul>
                 </li>
                 <li>Correctness and quality aspects
                     <ul>
                         <li>Correctness and consistency concerns of model evolution</li>
-                        <li> Verification and validation of evolving MDE artifacts </li>
+                        <li>Verification and validation of evolving MDE artifacts</li>
                     </ul>
                 </li>
                 <li> Applications
                     <ul>
                         <li>Software migration, reconstruction, reuse, and repurposing</li>
-                        <li>Evolution of heterogeneous systems, e.g., CPS and digital twins, including the (co-)evolution of virtual and physical artifacts and infrastructure </li>
-                        
+                        <li>Evolution of heterogeneous systems, e.g., CPS and digital twins, including the (co-)evolution of virtual and physical artifacts and infrastructure</li>
                     </ul>
                 </li>
-                <li> Empirical works, industry reports, patterns and catalogs, training and education in the area of model evolution</li>
+                <li>Empirical works, industry reports, patterns and catalogs, training and education in the area of model evolution</li>
+                <li><strong>Special focus in 2026:</strong> model evolution and maintenance in Digital Twins
+                    <ul>
+                        <li>Frameworks and theories handling model evolution in the Digital Twin models</li>
+                        <li>Handling verification, consistency, migration and co-evolution of models in the Digital Twin</li>
+                    </ul>
+                </li>
             </ul>
             </div>
         </div>
     </div>
 </section>
-
-
-
 
 <section class="section-speaker section">
     <div class="container">
@@ -93,10 +95,8 @@ custom_css: talks/stylesheet.css
                                 <li>Industry experience reports.</li>
                             </ol>
                         </li>
-                        <li>3. Tool papers (max. 5 pages): experience with tools for model-based software
-evolution and evolution issues encountered in model-based development.</li>
+                        <li>Tool papers (max. 5 pages): experience with tools for model-based software evolution and evolution issues encountered in model-based development.</li>
                     </ol>
-
                 </p>
             </div>
         </div>
@@ -125,10 +125,9 @@ evolution and evolution issues encountered in model-based development.</li>
                 <p>
                     All submissions will be reviewed by at least 3 members of the program committee. Papers submitted to the workshop should have at least 5 pages and 10 pages for full papers following the same style and format of the main tracks of the Conference. Submissions that do not adhere to the formatting instructions may be desk-rejected without review. 
                     
-                    The submission link: <a href="https://easychair.org/conferences/?conf=me2025">https://easychair.org/conferences/?conf=me2025</a>
+                    The submission link: <a href="https://easychair.org/conferences/?conf=me2026">https://easychair.org/conferences/?conf=me2026</a>
                 </p>
             </div>
         </div>
     </div>
 </section>
-<!-- {% include agenda3track.html %}  -->

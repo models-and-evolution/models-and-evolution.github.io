@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 450">
+  <defs>
+    <linearGradient id="sky" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#2C3E6B;stop-opacity:1" />
+      <stop offset="60%" style="stop-color:#D4A853;stop-opacity:0.6" />
+      <stop offset="100%" style="stop-color:#E8C97A;stop-opacity:0.8" />
+    </linearGradient>
+    <linearGradient id="sea" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#1B6B9A;stop-opacity:0.7" />
+      <stop offset="100%" style="stop-color:#2C3E6B;stop-opacity:0.5" />
+    </linearGradient>
+  </defs>
+  <!-- Sky -->
+  <rect width="1200" height="450" fill="url(#sky)"/>
+  <!-- Sun -->
+  <circle cx="900" cy="160" r="60" fill="#E8C97A" opacity="0.9"/>
+  <circle cx="900" cy="160" r="80" fill="#E8C97A" opacity="0.2"/>
+  <!-- Buildings silhouette -->
+  <rect x="50" y="220" width="60" height="130" rx="3" fill="#1B2A4A" opacity="0.6"/>
+  <rect x="120" y="200" width="45" height="150" rx="3" fill="#1B2A4A" opacity="0.5"/>
+  <rect x="175" y="240" width="70" height="110" rx="3" fill="#1B2A4A" opacity="0.55"/>
+  <rect x="260" y="210" width="50" height="140" rx="3" fill="#1B2A4A" opacity="0.5"/>
+  <rect x="320" y="190" width="40" height="160" rx="3" fill="#1B2A4A" opacity="0.6"/>
+  <!-- Cathedral/Alcazaba hint -->
+  <rect x="400" y="170" width="80" height="180" rx="5" fill="#1B2A4A" opacity="0.65"/>
+  <rect x="420" y="140" width="15" height="30" rx="2" fill="#1B2A4A" opacity="0.65"/>
+  <rect x="450" y="150" width="12" height="20" rx="2" fill="#1B2A4A" opacity="0.65"/>
+  <!-- More buildings -->
+  <rect x="500" y="230" width="55" height="120" rx="3" fill="#1B2A4A" opacity="0.5"/>
+  <rect x="570" y="250" width="80" height="100" rx="3" fill="#1B2A4A" opacity="0.45"/>
+  <rect x="670" y="220" width="50" height="130" rx="3" fill="#1B2A4A" opacity="0.5"/>
+  <rect x="740" y="240" width="65" height="110" rx="3" fill="#1B2A4A" opacity="0.55"/>
+  <rect x="820" y="260" width="90" height="90" rx="3" fill="#1B2A4A" opacity="0.4"/>
+  <rect x="930" y="250" width="45" height="100" rx="3" fill="#1B2A4A" opacity="0.45"/>
+  <rect x="990" y="230" width="70" height="120" rx="3" fill="#1B2A4A" opacity="0.5"/>
+  <rect x="1075" y="250" width="55" height="100" rx="3" fill="#1B2A4A" opacity="0.45"/>
+  <rect x="1140" y="270" width="60" height="80" rx="3" fill="#1B2A4A" opacity="0.4"/>
+  <!-- Sea -->
+  <rect x="0" y="350" width="1200" height="100" fill="url(#sea)"/>
+  <!-- Waves -->
+  <path d="M0 370 Q100 355 200 370 Q300 385 400 370 Q500 355 600 370 Q700 385 800 370 Q900 355 1000 370 Q1100 385 1200 370 L1200 450 L0 450Z" fill="#1B6B9A" opacity="0.3"/>
+  <path d="M0 385 Q150 370 300 385 Q450 400 600 385 Q750 370 900 385 Q1050 400 1200 385 L1200 450 L0 450Z" fill="#1B2A4A" opacity="0.2"/>
+  <!-- Text overlay -->
+  <text x="600" y="410" text-anchor="middle" font-family="Georgia, serif" font-size="18" fill="rgba(255,255,255,0.5)" letter-spacing="8">MODELS 2026 VENUE</text>
+</svg>

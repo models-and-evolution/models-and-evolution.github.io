@@ -1,139 +1,138 @@
 ---
 layout: default
-title: Models and evolution 2025
+title: Models and Evolution 2026 — 20th Edition
 ---
-    
+
 <section class="block">
     <div class="content">
-        <section class="section-banner d-flex align-items-center" style="background:url(https://www.volcamp.io/asset/images/bg-banner.png) no-repeat center top #6fc660">
+        <!-- ===== HERO BANNER ===== -->
+        <section class="section-banner d-flex align-items-center">
             <div class="container">
-                <div class="row">
-                    <div class="col-lg-7 mr-auto">
-                        <div class="banner-content"><span>{{ site.day1 }} - {{ site.day2 }} {{ site.month }}</span>
-                            <h1 class="mt-3 mb-5">ME</h1>
-                            <span>19th edition of the international workshop on Models and Evolution</span>
+                <div class="row align-items-center">
+                    <div class="col-lg-8 mr-auto">
+                        <div class="banner-content">
+                            <span class="edition-badge">20th Anniversary Edition</span>
+                            <h1 class="mt-3 mb-3">ME '26</h1>
+                            <span>International Workshop on Models and Evolution</span>
+                            <div>
+                                <span class="location-tag">
+                                    <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"/><circle cx="12" cy="10" r="3"/></svg>
+                                    M&aacute;laga, Spain &mdash; {{ site.day1 }} &ndash; {{ site.day2 }} {{ site.month }}
+                                </span>
+                            </div>
                         </div>
                     </div>
-                    <div class="col-4 pres_wa counter-over">
-                        <a class="btn btn-default btn-lg" href="https://conf.researchr.org/home/models-2025">Co-located with Models'24</a>
+                    <div class="col-lg-4 text-center d-none d-lg-block">
+                        <div class="anniversary-badge" style="margin:0 auto;">
+                            <span class="number">20</span>
+                            <span class="label">Years</span>
+                        </div>
+                        <a class="btn btn-hero btn-rounded mt-4" href="https://conf.researchr.org/home/models-2026">Co-located with MODELS'26</a>
                     </div>
                 </div>
             </div>
         </section>
 
-        <section class="section about">
+        <!-- ===== ABOUT / MOTIVATION ===== -->
+        <section class="section about" style="padding-top: 60px;">
             <div class="container">
                 <div class="row">
                     <div class="col-lg-12">
                         <div class="about-content-wrap mt-5 mt-lg-0"><span class="stroke-text">Workshop</span>
                             <div class="ml-90">
                                 <h2 class="text-lg mb-3 mt-3">Motivations</h2>
-                                <p>Model artifacts are subject to constant evolution throughout the lifecycle of sys-
-                                    tems. The evolutionary pressure emerges from various technical and business
-                                    factors throughout the overall software/system engineering endeavor. Pertinent
-                                    examples of such factors include changing requirements, changing environment,
-                                    and changing user base, all of which give rise to unique evolutionary challenges in
-                                    various system artifacts from architecture to implementation, and even in infor-
-                                    mal artifacts, such as documentation. These challenges, if left unmanaged, may
-                                    lead to deteriorating quality attributes, and in severe cases inconsistent artifacts
-                                    or even incorrect artifacts, preventing the system from operating as intended.
-                                    Therefore, proper support for efficient and effective evolution is required.
-                                    The Models and Evolution workshop promotes novel theories, techniques, and
-                                    tools to support evolution. To this end, the workshop brings together researchers
-                                    and practitioners to discuss the latest developments on the topic.
-                                </p></div>
-                                <div class="ml-90">
-                                    <h2 class="text-lg mb-3 mt-3">Topic of Interest</h2>
-                                    <p>The topics of interest include, but are not restricted to:
-                                        <ul> 
-                                            <li>Foundations</li>
-                                            <ul>
-                                                <li>Theories, methods, and tools for (meta-)model evolution</li>
-                                                <li>Co-evolution across multiple meta-levels (incl. instance and data levels)</li>
-                                            </ul>
-                                            <li>Correctness and quality aspects</li>
-                                            <ul>
-                                                <li>Consistency and correctness of evolving models</li>
-                                                <li>Verification and validation of evolving models</li>
-                                            </ul>
-                                            <li>Applications</li>
-                                            <ul>
-                                                <li>Software migration, reconstruction, reuse, and repurposing</li>
-                                                <li>Evolution of heterogeneous systems, e.g., CPS and digital twins, including the (co-)evolution of virtual and physical artifacts and infrastructure</li>
-                                            </ul> 
-                                            <li>Empirical works, industry reports, patterns and catalogs, training and education in the area of model evolution</li>
-                                        </ul>
-
-                                    </p></div>
+                                <p>Model artifacts are subject to constant evolution throughout the lifecycle of systems. The evolutionary pressure emerges from various technical and business factors throughout the overall software/system engineering endeavor. Pertinent examples of such factors include changing requirements, changing environment, and changing user base, all of which give rise to unique evolutionary challenges in various system artifacts from architecture to implementation, and even in informal artifacts, such as documentation. These challenges, if left unmanaged, may lead to deteriorating quality attributes, and in severe cases inconsistent artifacts or even incorrect artifacts, preventing the system from operating as intended. Therefore, proper support for efficient and effective evolution is required.</p>
+                                <p>The <strong>Models and Evolution</strong> workshop promotes novel theories, techniques, and tools to support evolution. To this end, the workshop brings together researchers and practitioners to discuss the latest developments on the topic.</p>
+                            </div>
                         </div>
-                        
                     </div>
-                    
                 </div>
             </div>
         </section>
 
-       <section class="section-speaker section">
+        <!-- ===== TOPICS OF INTEREST ===== -->
+        <section class="section" style="padding: 40px 0 60px;">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-12">
+                        <div class="about-content-wrap">
+                            <span class="stroke-text">Topics</span>
+                            <div class="ml-90">
+                                <h2 class="text-lg mb-3 mt-3">Topics of Interest</h2>
+                                <p>The topics of interest include, but are not restricted to:</p>
+
+                                <div class="topics-grid">
+                                    <div class="topic-card">
+                                        <h5>Foundations</h5>
+                                        <ul>
+                                            <li>Theories, methods, and tools for (meta-)model evolution</li>
+                                            <li>Co-evolution across multiple meta-levels (incl. instance and data levels)</li>
+                                        </ul>
+                                    </div>
+                                    <div class="topic-card">
+                                        <h5>Correctness &amp; Quality</h5>
+                                        <ul>
+                                            <li>Correctness and consistency concerns of model evolution</li>
+                                            <li>Verification and validation of evolving MDE artifacts</li>
+                                        </ul>
+                                    </div>
+                                    <div class="topic-card">
+                                        <h5>Applications</h5>
+                                        <ul>
+                                            <li>Software migration, reconstruction, reuse, and repurposing</li>
+                                            <li>Evolution of heterogeneous systems, e.g., CPS and digital twins, including the (co-)evolution of virtual and physical artifacts and infrastructure</li>
+                                        </ul>
+                                    </div>
+                                    <div class="topic-card">
+                                        <h5>Empirical &amp; Industry</h5>
+                                        <ul>
+                                            <li>Empirical works, industry reports, patterns and catalogs</li>
+                                            <li>Training and education in the area of model evolution</li>
+                                        </ul>
+                                    </div>
+                                    <div class="topic-card special">
+                                        <h5>Special Focus 2026: Digital Twins</h5>
+                                        <ul>
+                                            <li>Frameworks and theories handling model evolution in Digital Twin models</li>
+                                            <li>Handling verification, consistency, migration and co-evolution of models in the Digital Twin</li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- ===== KEYNOTE ===== -->
+        <section class="section-speaker section" style="background: var(--sand); padding: 60px 0;">
             <div class="container">
                 <div class="row section-heading">
                     <div class="col-lg-12">
                         <div class="heading"><span class="stroke-text">Keynote</span>
                             <div class="pl-90">
-                                <h2>Abstract: The Evolutionary Life of Metamodels</h2>
-                                <div class="pl-190">
-                                    <p>Metamodels are not static blueprints but living artifacts that evolve in step with their domains, the growing insights and awareness of their designers, and the demands of ever more ambitious requirements. As with any other software, their development is inherently iterative: abstractions are introduced, refined, and tested in cycles that call for rapid feedback. For such an iterative process to be effective, co-evolution must be live and must not disrupt the development workflow. Yet, the moment these iterations affect dependent models, transformations, or editors, co-evolution comes into play. Despite being investigated for a long time, co-evolution still remains a difficult task, riddled with challenges such as lossless adaptation, consistency preservation, and integration into existing workflows. The complexity is heightened by the fact that not only models must be adapted but also their editors, at the bare minimum, to remain usable after metamodel changes. When co-evolution is treated as an afterthought, handled through migration scripts, ad hoc fixes, or disruptive regeneration, it breaks the modeling flow. Designers are forced to leave the creative loop, adapting tools and repairing models before resuming their actual task.
-                                       This keynote explores the evolutionary life of metamodels, emphasizing the need to integrate co-evolution seamlessly into the development process. Drawing from recent advances in reflective platforms such as Jjodel, I will show how transparent, lossless, and user-guided mechanisms can transform metamodel evolution from a source of disruption into a natural driver of adaptation. By reframing evolution as an always-on capability rather than a costly intervention, we can sustain workflows that remain fluid, resilient, and accessible, whether in education, research, or industrial practice.
-                                    </p>
-                                </div>
-                                <h2>Alfonso Pierantonio Biography</h2>
-                                <div class="pl-190">
-                                    <p>
-                                        Alfonso Pierantonio is Full Professor in the Dipartimento di Ingegneria e Scienze dell’Informazione e Matematica of Università degli Studi dell’Aquila. From Jan 2016, he is visiting full professor at the Mälardalens University (Sweden).
-Alfonso’s expertise lies in the area of software engineering and, in particular, model-driven and language engineering and low-code with special attention to co-evolution techniques, consistency management, and bidirectionality. Recently,
-he has been focusing on the classification and clustering of modeling artifact repositories. He has been on the organizing committees of several international conferences and is a member of the steering committee of the MoDELS conference.
-Alfonso is Editor-in-Chief of the Journal of Object Technology, in the Editorial Board of the Journal of Software and System Modeling, and on the Science of Computer Programming advisory board. He is (co-)principal investigator of
-several research and industrial projects.
-                                    </p>
-                                </div>
-                                
+                                <h2>TBA</h2>
+                                <p>Keynote details will be announced soon. Stay tuned!</p>
                             </div>
                         </div>
                     </div>
                 </div>
-                <!-- <div class="row">
-                    {% assign speakers = site.speakers | where: "keynotes", true | sort_natural: 'name' %}
-                    {% for speaker in speakers %}
-                    <div class="col-lg-4 col-sm-6">
-                        <div class="speaker-block mb-5">
-                            <div class="img-block"><img src="{{ site.url }}/asset/images/speakers/{{ speaker.photo }}" alt="{{ speaker.name }}" class="img-fluid">
-                                <ul class="list-inline speaker-social">
-                                    <li class="list-inline-item"><a href="{{ site.url }}{{ speaker.url }}"><i class="icon-mic"></i></a></li>
-                                    {% if speaker.twitter != 'none' %}<li class="list-inline-item"><a href="https://twitter.com/{{ speaker.twitter }}" class="tw"><i class="icon-twitter"></i></a></li>{% endif %}
-                                    {% if speaker.linkedin != 'none' %}<li class="list-inline-item"><a href="https://www.linkedin.com/in/{{ speaker.linkedin }}" class="lnked"><i class="icon-linkedin-squared"></i></a></li>{% endif %}
-                                </ul>
-                            </div>
-                            <div class="speaker-info">
-                                <h4 class="mb-0 mt-3">{{ speaker.name }}</h4>
-                            </div>
-                        </div>
-                    </div>
-                    {% else %}
-                        Coming soon.
-                    {% endfor %}
-                </div> -->
             </div>
         </section>
-        
- 
 
+        <!-- ===== LOCATION ===== -->
         <section class="cta-2 section section-location">
             <div class="container">
                 <div class="row">
                     <div class="col-lg-12">
-                        <div class="cta-img"><img src="{{ site.url }}/asset/images/GVSU.jpg" alt="" class="img-fluid">
+                        <div class="cta-img">
+                            <img src="{{ site.url }}/asset/images/malaga.jpg" alt="M&aacute;laga, Spain" class="img-fluid" style="border-radius: var(--radius); max-height: 450px; width: 100%; object-fit: cover;">
                             <div class="contact-info box-shadow">
-                                <h6 class="text-color mb-3">{{ site.day1 }}, {{ site.day2 }} {{ site.month }}</h6>
-                                <p class="lead">Grand Valley State University<br>Michigan, United States</p><a href="https://2025.models-conf.com/"><i class="icon-location mr-2"></i>Place</a></div>
+                                <h6 class="text-color mb-3">{{ site.day1 }} &ndash; {{ site.day2 }} {{ site.month }}</h6>
+                                <p class="lead">Meli&aacute; Costa del Sol<br>M&aacute;laga, Spain</p>
+                                <a href="https://conf.researchr.org/venue/models-2026/models-2026-venue"><i class="icon-location mr-2"></i>Venue details</a>
+                            </div>
                         </div>
                     </div>
                 </div>
