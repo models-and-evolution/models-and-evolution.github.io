@@ -30,8 +30,8 @@ title: Models and Evolution 2026 - Important Dates
                 <p>
                We follow the defined deadlines by the MODELS workshop co-chairs.
                 <ul>
-                    <li> Abstract submission: Friday June 26, 2026 (AOE) </li>
-                    <li> Paper submission: Friday July 3, 2026 (AOE) </li>
+                    <li> Abstract submission: <s>Friday June 26, 2026 (AOE)</s> Friday July 10 </li>
+                    <li> Paper submission: <s>Friday July 3, 2026 (AOE) </s> Friday July 10 </li>
                     <li> Author notification: Thursday July 31, 2026 </li>
                     <li> Camera-ready: Thursday August 14, 2026 </li>
                 </ul>

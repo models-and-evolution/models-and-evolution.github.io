@@ -117,7 +117,7 @@ custom_css: talks/stylesheet.css
         <div class="row">
             <div class="col-lg-12">
                 <p>
-                    All submitted papers must adhere to the <a href="https://www.ieee.org/conferences/publishing/templates.html">IEEE Conference format</a>. LaTeX users must use the provided style files without modification. IEEE requires the use of ORCIDs. 
+                    Formatting instructions are available at https://www.acm.org/publications/proceedings-template for both LaTeX and Word users. LaTeX users must use the provided acmart.cls and ACM-Reference-Format.bst without modification, enable the conference format in the preamble of the document (i.e., <code>\documentclass[sigconf,review]{acmart}</code>), and use the ACM reference format for the bibliography (i.e., <code>\bibliographystyle{ACM-Reference-Format}</code>). The review option adds line numbers, thereby allowing referees to refer to specific lines in their comments. 
                 </p>
                 <p>    
                     LaTeX users should use the orcidlink package, <code>\hypersetup{pdfborder={0 0 0}}</code>, and <code>\orcidlink{XXXX-XXXX-XXXX-XXXX}</code> after each author name. Please note the <a href="https://www.ieee.org/publications/rights/author-rights-responsibilities.html">IEEE Authors Rights and Responsibilities</a>.
