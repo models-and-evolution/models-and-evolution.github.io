@@ -26,6 +26,8 @@ exclude:
 navigation:
  - title: Call for Papers
    url: /call-for-paper/
+ - title: Program
+   url: /speakers/
  - title: Important Dates
    url: /sponsors/
  - title: Organizers
