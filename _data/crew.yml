@@ -63,20 +63,10 @@
   employer: Gran Sasso Science Institute (Italy)
   photo: amleto.jpg
   role: pc
-- meh:
-  name: Mahmoud El Hamlaoui
-  employer: ENSIAS, Rabat IT Center, UM5R (Morocco)
-  photo: abl.jpg
-  role: pc
 - agd:
   name: "Antonio Garc&iacute;a-Dom&iacute;nguez"
   employer: University of York (UK)
   photo: abl.jpg
-  role: pc
-- wk:
-  name: Wael Kessentini
-  employer: DePaul University, Chicago (US)
-  photo: kes.jpeg
   role: pc
 - fk:
   name: Faezeh Khorram
@@ -147,4 +137,69 @@
   name: Sandra Greiner
   employer: University of Southern (Denmark)
   photo: sandra.jpg
+  role: pc
+- Rickson:
+  name: Rickson Simioni Pereira	
+  employer: University of Rennes | Inria | IRISA (France)
+  photo: abl.jpg
+  role: pc
+- Hafiyyan:
+  name: Hafiyyan Sayyid Fadhlillah
+  employer: University of Rennes, IRISA, INRIA (France)
+  photo: abl.jpg
+  role: pc
+- Stefan:
+  name: Stefan Klikovits
+  employer: Johannes Kepler University Linz (Austria)
+  photo: abl.jpg
+  role: pc
+- Joachim:
+  name: Joachim	Denil
+  employer: University of Antwerp (Belgium)
+  photo: abl.jpg
+  role: pc
+- Jannik:
+  name: Jannik	Laval
+  employer: Université de Lyon 2 (France)
+  photo: abl.jpg
+  role: pc
+- Francis:
+  name: Francis	Bordeleau
+  employer: École de technologie supérieure (ETS), Université du Québec (Canada)
+  photo: abl.jpg
+  role: pc
+- Bentley:
+  name: Bentley	Oakes
+  employer: Polytechnique Montreal (Canada)
+  photo: abl.jpg
+  role: pc
+- Antoine:
+  name: Antoine	Beugnard
+  employer: IMT Atlantique, Lab-STICC UMR 6285 (France)
+  photo: abl.jpg
+  role: pc
+- Joost:
+  name: Joost Mertens
+  employer: University of Antwerp (Belgium)
+  photo: abl.jpg
+  role: pc
+- Francesco:
+  name: Francesco	Basciani	
+  employer: Gran Sasso Science Institute (Italy)
+  photo: abl.jpg
+  role: pc
+- Loek:
+  name: Loek Cleophas
+  employer: TU Eindhoven; and Stellenbosch University (Netherlands)
+  photo: abl.jpg
+  role: pc
+- Sylvain:
+  name: Sylvain Vauttier
+  employer: LG2IP / Ecole des Mines Ales (France)
+  photo: abl.jpg
+  role: pc
+- Antonio:
+  name: Antonio	Garmendia
+  employer: Universidad Autónoma de Madrid (Spain)
+  photo: abl.jpg
   role: pc
